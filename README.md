@@ -20,7 +20,7 @@ Sou desenvolvedor Java com 2 anos de experiência, atualmente finalizando a grad
 
 ## Contato
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurigoncalveslima/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-goncalves-lima/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurigoncalveseng@gmail.com)
 
 
